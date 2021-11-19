@@ -1,3 +1,4 @@
+// time complexity: Big O (n^2)
 
   function quickSort(arr, l, n){
     let index

@@ -1,10 +1,10 @@
 # Sorting
 Sorting Algorithms in JavaScript
 
- ##QuicklySort
+ ## QuicklySort
  * time complexity: Big O (n^2)
 
  
- ##BubbleSort
+ ## BubbleSort
  * time complexity: Big O (n^2)
 
